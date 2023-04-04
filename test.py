@@ -1,7 +1,5 @@
-movies_list = ["Jame Bond",
-               "John Wick",
-               "Fast & Furious",
-               "The Avenger",
-               "Iron Man"]
-movies_list.clear()
-print(movies_list)
+list1 = [1,2,3]
+list2 = list1.copy()
+
+print(list1 is list2) 
+print(list1 == list2)
