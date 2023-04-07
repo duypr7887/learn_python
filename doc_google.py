@@ -2,6 +2,9 @@ from gtts import gTTS
 import pygame
 import os
 from docx import Document
+import pandas as pd
+from sqlalchemy import create_engine
+from sqlalchemy import sql, insert, update, delete
 
 def speak(text):
     
