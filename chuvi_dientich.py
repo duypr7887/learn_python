@@ -2,10 +2,14 @@
 # a, Chu vi = ?
 # b, Diện tích = ?
 
-r = int(input("Nhập vào bán kính của đường tròn: "))
+r = float(input("Nhập vào bán kính của đường tròn: "))
 
 chu_vi = 2 * r * 3.14
 dien_tich = 3.14 * (r**2)
-
-print (chu_vi)
-print (dien_tich)
+# cách in ra màn hình, cách 1:
+print ("Chu vi của hình tròn là: ",chu_vi)
+print ("Diện tính của hình tròn là: ",dien_tich)
+#cách 2
+print('Chu vi hình tròn là {}, diện tích hình tròn là {}'.format(chu_vi,dien_tich))
+#cách 3:
+print(f'Chu vi hình tròn là: {chu_vi}, diện tích hình tròn là: {dien_tich}')
