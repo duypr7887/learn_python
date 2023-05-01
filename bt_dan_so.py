@@ -1,0 +1,1 @@
+# Năm 2017 dân số VN 95.5tr người. Trung bình 1 năm tăng 1.2%. Hỏi sau bao nhiêu năm thì dân số tăng lên 150tr. (dùng while True)

@@ -1,0 +1,1 @@
+#Tính tổng s(x,n) = x + (X^2/2!) + ... + (x^n /n!) dùng for

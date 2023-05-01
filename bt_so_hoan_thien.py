@@ -1,0 +1,1 @@
+# Số hoàn thiện (hay còn gọi là số hoàn chỉnh, số hoàn hảo hoặc hoàn thành) là một số nguyên dương mà tổng các ước nguyên dương chính của nó (số nguyên dương bị nó chia hết ngoại trừ nó) bằng chính nó. Tìm tất cả số hoàn thiện trong phạm vi từ 1 tới 1000.
