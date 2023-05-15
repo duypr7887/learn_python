@@ -10,7 +10,7 @@ def is_leap_year(year : int) -> bool:
         else:
             return False
     else:
-        return year % 4 == 0
+        return year % 4 == 0 
 
 def calNumber(birth : list) -> int:
     day = str(birth[0])
