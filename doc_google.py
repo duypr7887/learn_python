@@ -29,3 +29,4 @@ for paragraph in document.paragraphs:
     text += paragraph.text + ' '
     
 speak(text)
+# 

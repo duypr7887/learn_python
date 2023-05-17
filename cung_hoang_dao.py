@@ -10,7 +10,7 @@ def is_leap_year(year : int) -> bool:
         else:
             return False
     else:
-        return year % 4 == 0 
+        return year % 4 == 0
 
 def calNumber(birth : list) -> int:
     day = str(birth[0])
@@ -85,3 +85,4 @@ for year in range(min_year,max_year + 1):
 
 print(f'\n\n Tìm ra {result} kết quả phù hợp với yêu cầu!')
 input("Ấn phím bất kỳ để thoát!")
+# 
